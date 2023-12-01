@@ -36,8 +36,6 @@ To explore a project:
 
 ## Project List
 
-1. [Pizza Sales Dashbord](./Project1): Brief description of Project 1.
+1. [Pizza Sales Dashbord](./Pizza Sales Dashboard): Brief description of Project 1.
 2. [Project 2](./Project2): Brief description of Project 2.
    ...
-
-
