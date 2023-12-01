@@ -36,18 +36,8 @@ To explore a project:
 
 ## Project List
 
-1. [Project 1](./Project1): Brief description of Project 1.
+1. [Pizza Sales Dashbord](./Project1): Brief description of Project 1.
 2. [Project 2](./Project2): Brief description of Project 2.
    ...
 
-## Contributing
 
-If you would like to contribute, feel free to fork the repository and submit a pull request. Please follow the existing structure and provide clear documentation for any changes.
-
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Mention any credits, data sources, or references if applicable.
