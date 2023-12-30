@@ -37,5 +37,5 @@ To explore a project:
 ## Project List
 
 1. [Pizza Sales Dashbord](https://github.com/Oyeniran20/PowerBI/tree/main/Pizza%20Sales): The Pizza Sales Power BI Dashboard is a comprehensive visualization project that analyzes and presents key insights into pizza sales data. This interactive dashboard is designed to provide a clear understanding of revenue, order trends, and the performance of different pizza categories and sizes.
-3. [Customer Analytics (Hotel Feedback)](https://github.com/Oyeniran20/PowerBI/tree/main/Customer%20Feedback)https://github.com/Oyeniran20/PowerBI/tree/main/Customer%20Feedback): Brief description of Project 2.
+3. [Customer Analytics (Hotel Feedback)](https://github.com/Oyeniran20/PowerBI/tree/main/Customer%20Feedback): This project aims to create a comprehensive customer analytics dashboard using Power BI to visualize and derive insights from hotel feedback data. .
    ...
